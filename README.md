@@ -49,9 +49,6 @@ Displays the result in a user-friendly format.
 
 Corresponding national flags are shown beside the currency dropdowns using flagsapi.com.
 
-🖼️ Demo Screenshot
-(You can include a screenshot here of your app in action)
-
 🚀 How to Run
 Download or clone the repository.
 
